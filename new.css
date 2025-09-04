@@ -1,0 +1,131 @@
+*{margin: 1px;
+   padding: 1px;
+}   
+body{
+    background-color:#1c1c2b;
+    
+}
+h1{
+    text-align:center;
+    color:#f2cbaa;
+    
+    font-size: 30px;
+    font-family: kalam;
+}
+
+
+h2{
+    
+   
+    border-left: #6e65f1 solid 6px ;
+     color: #00f5d4;
+      padding-left: 10px;
+}
+hr{
+
+    margin:auto;
+    width:50%; 
+    height:4px;
+    border: solid #32326cb9;
+    background-color:#6e65f1;
+    border-radius:1000px;
+   
+}
+
+h3{
+    color:rgb(156, 125, 177);
+    border-left: #46fe39 solid 3px ;
+    padding-left: 10px;
+    font-family: Verdana;
+}
+a{
+
+}
+table{
+    margin:auto;
+    color: #7b74be;
+    font-family: Georgia;
+    padding: 3px;
+    font-size: 18px;
+    border-bottom-right-radius: 20px solid #6e65f1;
+    font
+}
+
+td{
+    padding:10px;
+    text-align: left;
+    text-decoration-style: solid;
+    width:40%;
+
+}
+#mainw{
+    display: inline-block;
+   border:#46fe39a4  solid 2px;
+    align-items: center;
+    font-family: inherit;
+   
+}
+#imgw{
+    display: block;
+    text-align: center;
+    border-radius: 99%;
+    
+    
+    
+}
+#imgd{
+    
+    border:rgb(156, 125, 177) solid 1px;
+    border-radius: 0px;
+    
+}
+#button{
+    display: inline-block;
+    text-align: center;
+    background-color: #6e65f162;
+    border-radius: 8px;
+    border:rgb(156, 125, 177) solid 2px;
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    color:lightblue ;
+}
+#top{
+   
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-size: 8px;
+    border: 7px solid #6e65f1;
+    align: center;
+    width: 100%;
+    height: 50%;
+    
+
+}
+
+th{
+    text-align: center;  
+    padding: 10px;
+    font-size: 13px;
+    border: 1px solid #6e65f162;
+}
+img{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border-left: 3px solid #6e65f1;
+
+
+}
+#main{
+    border: none;
+    border-radius: 0px; 
+}
+
+marquee{
+    color:#9992f9;
+    background-color: #6e65f162;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-weight: 1000;
+}
