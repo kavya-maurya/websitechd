@@ -39,6 +39,10 @@ h3{
     font-family: Verdana;
 }
 a{
+    text-decoration: none;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
 
 }
 table{
@@ -47,8 +51,8 @@ table{
     font-family: Georgia;
     padding: 3px;
     font-size: 18px;
-    border-bottom-right-radius: 20px solid #6e65f1;
-    font
+   
+
 }
 
 td{
@@ -79,6 +83,23 @@ td{
     border-radius: 0px;
     
 }
+#dotsth{
+    border: 1px solid #6e65f1;
+    border-radius: 20%;
+    margin: 9px;
+    text-align: center;
+    background-color: #6e65f112;
+    color: azure;
+    height: 0%;
+    width: 7%;
+}
+#dots{
+    border:none;
+    margin: 1px;
+    text-align: center;
+    
+
+}
 #button{
     display: inline-block;
     text-align: center;
@@ -93,21 +114,48 @@ td{
 }
 #top{
    
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
-    font-size: 8px;
-    border: 7px solid #6e65f1;
-    align: center;
+    font-family: 'Trebuchet MS',sans-serif;
+    font-size: 2px;
+    border: 3px solid #6e65f1;
+   
     width: 100%;
     height: 50%;
+    border-radius:20px;
+    text-decoration: none;
+
+
     
 
 }
 
+#imgth{
+    width:20px;
+    height:20px;
+    border-radius: 99%;
+    border: 2px solid #6e65f1;
+    background-image: url(contact.jpeg);
+    border-radius:70%;
+    
+}
+
+
 th{
     text-align: center;  
     padding: 10px;
-    font-size: 13px;
-    border: 1px solid #6e65f162;
+    
+   
+    border-left: 7px solid rgb(153, 219, 246);
+    border-radius: 2px 2px 10px;
+      
+    background-color: #6e65f182;
+    color: #413b83;
+   
+    padding:15px 20px;
+   
+}
+
+#th2{
+    border:none;
 }
 img{
     display: inline-block;
@@ -126,6 +174,6 @@ img{
 marquee{
     color:#9992f9;
     background-color: #6e65f162;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-    font-weight: 1000;
+    font-family:  'Arial Narrow Bold', sans-serif;
+    
 }
